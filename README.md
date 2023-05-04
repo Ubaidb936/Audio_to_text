@@ -1,25 +1,21 @@
-Creates virtual env:
+- Creates virtual env:
 
-python -m venv ./venv
+`python -m venv ./venv`
 
+- Activate virtual environment:
 
-Activate virtual environment:
+`source venv/bin/activate`
 
-source venv/bin/activate
+- intall Requirements:
 
-intall Requirements: 
+`pip install -r requiremets.txt`
 
-pip install -r requiremets.txt
+- Run App:
 
+`python api.py`
 
-Run App: 
+- POSTMAN KEYS
 
-python api.py
+`video`
 
-
-POSTMAN KEYS
-
-
-video
-
-lan
+`lang`
